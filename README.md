@@ -63,9 +63,6 @@ The bot will start polling and will be ready to receive messages!
 
 ---
 
-
----
-
 ## Commands Available in Bot
 | Command         | Description                        |
 | --------------- | ---------------------------------- |
