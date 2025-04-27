@@ -82,4 +82,3 @@ The bot will start polling and will be ready to receive messages!
 - **Mistral-7B-Instruct** is used through HuggingFace inference endpoint.
 - Sessions are saved locally under `sessions/` folder.
 
----
