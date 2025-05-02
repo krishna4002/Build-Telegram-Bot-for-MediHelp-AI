@@ -4,19 +4,19 @@ MediHelp AI Bot is a **Telegram Bot** that allows users to ask **medical questio
 
 ---
 
-## 🆔 Bot Info
+## Bot Info
 - **Bot Name**: `MediHelp AI`
 - **Bot Username**: `@MediHelp_AI_Bot` 
 
 ---
 
 ## Features
-- ✅ Answer medical questions based on knowledge base
-- ✅ Save user sessions (Q&A history)
-- ✅ Start new chat sessions
-- ✅ View and download previous chat histories (as `.txt` or `.json`)
-- ✅ Powered by **Mistral-7B-Instruct** model from HuggingFace
-- ✅ Uses **Pinecone** for vector search
+-  Answer medical questions based on knowledge base
+-  Save user sessions (Q&A history)
+-  Start new chat sessions
+-  View and download previous chat histories (as `.txt` or `.json`)
+-  Powered by **Mistral-7B-Instruct** model from HuggingFace
+-  Uses **Pinecone** for vector search
 
 ---
 
