@@ -6,7 +6,8 @@ MediHelp AI Bot is a **Telegram Bot** that allows users to ask **medical questio
 
 ## Bot Info
 - **Bot Name**: `MediHelp AI`
-- **Bot Username**: `@MediHelp_AI_Bot` 
+- **Bot Username**: `@MediHelp_AI_Bot`
+- But it generates responses when run locally.
 
 ---
 
